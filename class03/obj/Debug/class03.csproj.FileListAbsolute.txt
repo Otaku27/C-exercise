@@ -1,0 +1,7 @@
+C:\Users\a388640\net_class\class03\class03\bin\Debug\class03.exe.config
+C:\Users\a388640\net_class\class03\class03\bin\Debug\class03.exe
+C:\Users\a388640\net_class\class03\class03\bin\Debug\class03.pdb
+C:\Users\a388640\net_class\class03\class03\obj\Debug\class03.csprojResolveAssemblyReference.cache
+C:\Users\a388640\net_class\class03\class03\obj\Debug\class03.csproj.CoreCompileInputs.cache
+C:\Users\a388640\net_class\class03\class03\obj\Debug\class03.exe
+C:\Users\a388640\net_class\class03\class03\obj\Debug\class03.pdb
